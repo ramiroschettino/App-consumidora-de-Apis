@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RYMApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70b695e2c823e37d46793b2f2ae49f578fcce99a")]
 [assembly: System.Reflection.AssemblyProductAttribute("RYMApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RYMApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
